@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\bin\Debug\netcoreapp3.1\Day3Emp_PP.exe
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\bin\Debug\netcoreapp3.1\Day3Emp_PP.deps.json
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\bin\Debug\netcoreapp3.1\Day3Emp_PP.runtimeconfig.json
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\bin\Debug\netcoreapp3.1\Day3Emp_PP.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\bin\Debug\netcoreapp3.1\Day3Emp_PP.dll
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\bin\Debug\netcoreapp3.1\Day3Emp_PP.pdb
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.dll
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.pdb
+C:\Users\lenovo\source\repos\Day3Emp_PP\Day3Emp_PP\obj\Debug\netcoreapp3.1\Day3Emp_PP.genruntimeconfig.cache
