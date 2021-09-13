@@ -9,7 +9,8 @@ namespace Day3Emp_PP
             //Console.WriteLine("Welcome to Employee Wage Computation Program");
             //UC1.GetAttendance();
             //UC2.EmpWage();
-            UC3.PartTimeEmpWage();
+            //UC3.PartTimeEmpWage();
+            UC4.EmpWageUsingSwitch();
         }
     }
 }
