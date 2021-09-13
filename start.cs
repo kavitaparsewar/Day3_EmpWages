@@ -11,7 +11,8 @@ namespace Day3Emp_PP
             //UC2.EmpWage();
             //UC3.PartTimeEmpWage();
             //UC4.EmpWageUsingSwitch();
-            UC5.CalculateWagesFor20DaysInMonth();
+            //UC5.CalculateWagesFor20DaysInMonth();
+            UC6.CalculateWageTill100HrsOr20IsReached();
         }
     }
 }
