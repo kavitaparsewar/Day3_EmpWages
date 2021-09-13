@@ -7,7 +7,8 @@ namespace Day3Emp_PP
         static void Main(string[] args)
         {
             //Console.WriteLine("Welcome to Employee Wage Computation Program");
-            UC1.GetAttendance();
+            //UC1.GetAttendance();
+            UC2.EmpWage();
         }
     }
 }
